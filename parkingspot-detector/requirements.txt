@@ -1,0 +1,7 @@
+opencv-python
+scikit-learn
+pandas
+Pillow==9.3.0
+scikit-image
+matplotlib
+numpy
