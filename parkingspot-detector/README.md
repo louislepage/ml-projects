@@ -17,3 +17,5 @@ performs a train and test split on them. On the train split, numerous SVC classi
 the best performing one is evaluated and stored.
 
 Video data and mask are available [here](https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC?usp=sharing).
+
+![Image of Detector in Action on Example Data](parking-spot-detector.png)
