@@ -1,0 +1,4 @@
+./*.pkl
+.idea/
+/sentiment_model_logreg.pkl
+/imdb-dataset-of-50k-movie-reviews/
